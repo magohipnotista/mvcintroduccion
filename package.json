@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^39.0.1",
+    "datatables.net-autofill-bs5": "^2.6.0",
+    "datatables.net-bs5": "^1.13.6",
+    "datatables.net-buttons-bs5": "^2.4.1",
+    "datatables.net-colreorder-bs5": "^1.7.0",
+    "datatables.net-datetime": "^1.5.0",
+    "datatables.net-dt": "^1.13.6",
+    "datatables.net-editor-bs5": "^2.2.0",
+    "datatables.net-fixedcolumns-bs5": "^4.3.0",
+    "datatables.net-fixedheader-bs5": "^3.4.0",
+    "datatables.net-keytable-bs5": "^2.10.0",
+    "datatables.net-responsive-bs5": "^2.5.0",
+    "datatables.net-rowgroup-bs5": "^1.4.0",
+    "datatables.net-rowreorder-bs5": "^1.4.1",
+    "datatables.net-scroller-bs5": "^2.2.0",
+    "datatables.net-searchbuilder-bs5": "^1.5.0",
+    "datatables.net-searchpanes-bs5": "^2.2.0",
+    "datatables.net-select-bs5": "^1.7.0",
+    "feather-icons": "^4.29.1",
+    "jquery": "^3.7.1",
+    "sweetalert": "^2.1.2"
+  }
+}

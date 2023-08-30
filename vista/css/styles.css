@@ -1,0 +1,47 @@
+/* FORMULARIOS REGISTRO E INGRESO */
+.form_registro {
+    padding: 80px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+.form_padre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+.form_registro img{
+    height:100px!important;
+    margin-left: 50px;
+}
+/* VISTA TAREAS */
+.row_principal{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    min-height: 80vh;
+}
+/* BOTON BORRAR TAREAS */
+.borrar{
+    background-color:unset;
+    border: none!important;
+}
+/*=============================================
+TABLET HORIZONTAL (LG revisamos en 1024px)
+=============================================*/
+@media (max-width:1199px) and (min-width:992px) {}
+
+/*=============================================
+TABLET VERTICAL (MD revisamos en 768px)
+=============================================*/
+@media (max-width:991px) and (min-width:768px) {}
+
+/*=============================================
+MÓVIL HORIZONTAL (SM revisamos en 576px)
+=============================================*/
+@media (max-width:767px) and (min-width:576px) {}
+
+/*=============================================
+MOVIL VERTICAL (revisamos en 320px)
+=============================================*/
+@media (max-width:575px) {}
