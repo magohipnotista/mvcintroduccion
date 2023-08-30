@@ -18,7 +18,7 @@ try {
         PRIMARY KEY (`id`)
         )");
     //TABLA USUARIOS
-    $pdo->exec("CREATE TABLE IF NOT EXISTS navegacion (
+    $pdo->exec("CREATE TABLE IF NOT EXISTS usuarios (
         `id` int(11) NOT NULL AUTO_INCREMENT,
         `email` text NOT NULL,
         `password` text NOT NULL,
